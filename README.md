@@ -2,12 +2,19 @@
 
 # Hi, I'm Sara Alshammari 👋
 
-### Information Technology Graduate · Python & Django Developer
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Information+Technology+Graduate;Python+%26+Django+Developer;Building+Useful+Web+Applications;Always+Learning+Something+New"
+  alt="Typing animation"
+/>
+
+<br>
 
 Building practical web applications and turning ideas into clean, user-friendly digital experiences.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/sara-alshammari-9b1a4b1b8/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/itssara1)
+<br><br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sara-alshammari-9b1a4b1b8/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itssara1)
 
 </div>
 
@@ -160,4 +167,4 @@ Interactive JavaScript projects featuring DOM manipulation, Local Storage, respo
 I'm always happy to connect, collaborate, and learn with other developers.
 
 [![LinkedIn](https://img.shields.io/badge/Sara_Alshammari-LinkedIn-0A66C2?style=flat-square\&logo=linkedin)](https://www.linkedin.com/in/sara-alshammari-9b1a4b1b8/)
-[![GitHub](https
+[![GitHub](https)
