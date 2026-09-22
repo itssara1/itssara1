@@ -160,20 +160,20 @@ Interactive JavaScript projects featuring DOM manipulation, Local Storage, respo
 * Deployment and production-ready configuration
 * Building complete projects from planning to delivery
 
-📫 Let's Connect
+## 📫 Let's Connect
 
 <div align="center">
 
 I'm always happy to connect, collaborate, and learn with other developers.
 
+<br><br>
 
+[![Email](https://img.shields.io/badge/Email-saara3942%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saara3942@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-0500853942-22C55E?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+966500853942)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sara-alshammari-9b1a4b1b8/)
 
+<br><br>
 
-
-</div>
-
-<div align="center">
-
-Learn · Build · Improve · Repeat
+**Learn · Build · Improve · Repeat**
 
 </div>
