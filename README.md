@@ -135,9 +135,13 @@ Interactive JavaScript projects featuring DOM manipulation, Local Storage, respo
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=itssara1&show_icons=true&theme=tokyonight&hide_border=true" alt="Sara's GitHub statistics" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itssara1&theme=tokyonight" alt="Sara's GitHub Profile Summary" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itssara1&layout=compact&theme=tokyonight&hide_border=true" alt="Sara's most used languages" />
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itssara1&theme=tokyonight" alt="Sara's Top Languages" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=itssara1&theme=tokyonight" alt="Sara's GitHub Stats" />
 
 </div>
 
