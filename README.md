@@ -160,11 +160,20 @@ Interactive JavaScript projects featuring DOM manipulation, Local Storage, respo
 * Deployment and production-ready configuration
 * Building complete projects from planning to delivery
 
-## 📫 Let's Connect
+📫 Let's Connect
 
 <div align="center">
 
 I'm always happy to connect, collaborate, and learn with other developers.
 
-[![LinkedIn](https://img.shields.io/badge/Sara_Alshammari-LinkedIn-0A66C2?style=flat-square\&logo=linkedin)](https://www.linkedin.com/in/sara-alshammari-9b1a4b1b8/)
-[![GitHub](https)
+
+
+
+
+</div>
+
+<div align="center">
+
+Learn · Build · Improve · Repeat
+
+</div>
